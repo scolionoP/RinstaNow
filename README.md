@@ -50,3 +50,7 @@ To use it, open the Session sheet and click **Login Window...**. Sign into Insta
 The manual cookie field and **Import HAR...** button remain as debugging fallbacks. HAR import looks for a `200` response from `IGDirectTextSendMutation` and stores the form fields and browser headers as the send template.
 
 If Instagram returns HTTP 401 with `require_login`, stop using the client for a few minutes and sign back in through the browser. Instagram may invalidate a copied session when it decides the request pattern does not match the browser session closely enough.
+
+## Acknowledgements
+
+Icon art by [ゆこ](https://www.pixiv.net/en/artworks/10768453)
