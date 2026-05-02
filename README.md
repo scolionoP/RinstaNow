@@ -1,5 +1,7 @@
 # <img src="./Resources/AppIcon.iconset/icon_128x128.png" width="64" height="64" style="margin-right:1rem;"> RinstaNow
 
+> _リンちゃんなう！　リンちゃんなう！！　リンちゃんリンちゃんリンちゃんなう！！！_
+
 A small native macOS desktop client for Instagram direct messages.
 
 The app uses SwiftUI for a traditional macOS split-view interface and `URLSession` for Instagram web-session requests.
